@@ -30,7 +30,7 @@ In this lab, the application you will be starting out with will be completely bl
 
 The application you will be building is a Coupon app. Below is a high-level overview of the features you'll be building out:
 
-* You will need to create a `coupons` table with `coupon_code` and `store` columns, which should both be of the `string` data type.
+* You will need to create a `coupons` table with `copon_code` and `store` columns, which should both be of the `string` data type.
 
 * Your `index` page should show all of the coupons in the database using the following format: 
 
